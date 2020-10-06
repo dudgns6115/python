@@ -1,1 +1,14 @@
-print(hello)
+a = 20
+b = 10
+sum = a + b
+sub = a - b
+mul = a * b
+div = a / b
+char = "sum: "
+print(char, sum)
+char = "sub: "
+print(char,sub)
+char = "mul: "
+print(char,mul)
+char = "div: "
+print(char,div)
