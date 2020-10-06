@@ -6,7 +6,7 @@
 
 ```shell
 !pip install PyPDF3
-!pip install PIL
+!pip install pillow
 !pip install PyQt5
 !pip install reportlaab
 ```
